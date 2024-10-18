@@ -1,6 +1,6 @@
 
 
-![alt text](../octo-logo/src/octologo/octo.png)
+![alt text](./assets/logo.png)
 
 
 # Visão Geral
