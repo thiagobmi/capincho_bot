@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  whatsapp-bot:
+    build: .
+    container_name: whatsapp-bot
+    stdin_open: true   # Keep stdin open to allow interaction
+    tty: true          # Allocate a pseudo-TTY
+    privileged: true
+    volumes:
+      - .:/app     # Sync local files with container (for development)
+    environment:
+      - NODE_ENV=development
+    ports:
+      - "3000:3000"    # If the bot exposes a port, you can access it via localhost:3000
+

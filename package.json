@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "canvas-txt": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "gm": "^1.25.0",
+    "google-images": "^2.1.0",
+    "googleapis": "^126.0.1",
+    "https": "^1.0.0",
+    "ical": "^0.8.0",
+    "ical.js": "^1.5.0",
+    "jimp": "^0.3.5",
+    "mime": "^3.0.0",
+    "mime-types": "^2.1.35",
+    "mtgsdk": "^1.0.1",
+    "node-ical": "^0.16.1",
+    "puppeteer": "^19.7.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0",
+    "yeloapi": "^1.0.8",
+    "ytdl-core": "^4.11.5"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "bot_whatsapp",
+  "version": "1.0.0",
+  "main": "server copy.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
