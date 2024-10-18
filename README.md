@@ -48,7 +48,7 @@ Minha ideia foi criar um bot divertido e que não incomodasse as pessoas no What
 
 ## Configuração do .env
 
-O projeto utiliza 2 chaves de API que podem ser obtidas gratuitamente.
+O projeto utiliza 2 chaves de API que podem ser obtidas gratuitamente:
 - [OpenWeather](https://openweathermap.org/api): Usada para informações do clima.
 - [GoogleImages](https://programmablesearchengine.google.com/controlpanel/create): Usada para a busca de imagens na internet.
 
