@@ -92,4 +92,5 @@ node server.js
 
 Fique atento ao terminal pois na primeira vez que você rodar, aparecerá um QR-Code para você scanear e autenticar com o whatsapp. O processo é igual ao se autenticar com o whatsapp web (porque por baixo dos panos é isso que você está fazendo).
 
-    Para desconectar o bot, basta realizar a remoçao do dispositivo nas configurações do whatsapp.
+> [!NOTE]
+> Para desconectar o bot, basta realizar a remoção do dispositivo nas configurações do whatsapp.
