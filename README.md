@@ -52,7 +52,7 @@ O projeto utiliza 2 chaves de API que podem ser obtidas gratuitamente.
 - [OpenWeather](https://openweathermap.org/api): Usada para informações do clima.
 - [GoogleImages](https://programmablesearchengine.google.com/controlpanel/create): Usada para a busca de imagens na internet.
 
-Após a obtençao das chaves, substituia os campo ``<YOUR_KEY>` no arquivo .env pelas suas chaves das APIs.
+Após a obtençao das chaves, substituia os campo `<YOUR_KEY>` no arquivo .env pelas suas chaves das APIs.
 
 ## Usando Docker (Opcional)
 
